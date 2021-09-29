@@ -1,6 +1,11 @@
-# ozmaptest
-Para rodar os testes, deve inicialmente rodar o migrate do knex:
-knex migrate:latest --env development
+# Teste para vaga de estágio em Dev - OZmap
 
-E então:
+### Generate SQLite database
+```bash
+knex migrate:latest --env development
+```
+
+### Run tests
+```bash
 npm run test
+```
