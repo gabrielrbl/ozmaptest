@@ -22,7 +22,7 @@
   "homepage": "https://bitbucket.org/developmentOneZero/fileteste#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "knex": "^0.95.11",
+    "knex": "^2.4.0",
     "koa": "^2.13.0",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^9.4.0",
